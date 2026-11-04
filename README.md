@@ -67,3 +67,6 @@ Para empresas y profesionales:
 
 Las IAs podrán utilizar las herramientas cuando IAempleo esté conectado y habilitado, y siempre que la solicitud sea compatible con los parámetros disponibles.
 La información y los resultados pueden variar según las ofertas activas en el momento de la consulta.
+
+
+URL de la pàgina: https://www.iaempleo.com/mcp
